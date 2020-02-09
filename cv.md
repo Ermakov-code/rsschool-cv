@@ -6,20 +6,14 @@
 
     import multiprocessing
     import socket
-
-
-
     node = {}
-
     class WordAndStr():
         def __init__(self, word, strnum):
             self.word = word
             self.strnum = strnum
         def view(self):
             return "Word: " + self.word + "\nNum of str: " + self.strnum
-
-
-    def handle(connection, address):
+        def handle(connection, address):
         import logging
         logging.basicConfig(level=logging.DEBUG)
         logger = logging.getLogger("process-%r" % (address,))
@@ -56,7 +50,6 @@
         finally:
             logger.debug("Closing socket")
             connection.close()
-
     class Server(object):
         def __init__(self, hostname, port):
             import logging
