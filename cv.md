@@ -1,8 +1,6 @@
 1. Dmitry Svetilov
 2. email: medison2033@gmail.com
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
+3. At the current momenty my goal actually is to find some kind of activity that will be interesting for me and will be work that i like to do. For now i think that programming can be this activity, that's why i'm writing this resume. So about me: i'm kind of responsible person, one of the ability that i like most is my ability to learn fast, i really can digest information from one lesson and i need little experience to work with any information. I can quickly find a common language with different people.
 4. Skills C++ leaner, some python and unity
 5. Python: 
  import multiprocessing
@@ -98,5 +96,5 @@ if __name__ == "__main__":
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
 Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+7. Education: rs school, codecademy, BSUI game developer
+8. English: in school, in university
