@@ -3,6 +3,18 @@
     
 
 }
+body { 
+    max-width: 1024px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+.centerStop {
+    width: 50%;
+    font-size: 20px;
+}   
 
 header {
     background-color: #808080;
@@ -13,8 +25,20 @@ header {
     border-radius: 10px;
 
 }
+.right {
+    position: relative;
+    float: right;
+    height: 600px;
+}
+details {
+    white-space: pre;
+}
+main {
+    margin: 25px;
+}
 * {
     margin: 2px;
     padding: 0;
+    
 
 }
